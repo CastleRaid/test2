@@ -1,3 +1,5 @@
+<?php
+
 namespace BanManager;
 
 use pocketmine\Server;
